@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://shuzhao.me/ParallelSearchProject/)
-<!--[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/xxx)-->
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2508.09303)
 
 ## 📌 Overview
 
@@ -155,18 +155,17 @@ bash eval_parallelsearch.sh
 ## 📄 License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
-<!-- ## 🏆 Citation [TODO]
-If you use ParallelSearch in your research, please cite our paper:
+## 🏆 Citation
+If you found our paper useful, please cite it:
 
 ```bibtex
 @article{zhao2025parallelsearch,
   title={ParallelSearch: Train your LLMs to Decompose Query and Search Sub-queries in Parallel with Reinforcement Learning},
   author={Zhao, Shu and Yu, Tan and Xu, Anbang and Singh, Japinder and Shukla, Aaditya and Akkiraju, Rama},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2508.09303},
   year={2025}
 }
 ```
--->
 
 ## 🙏 Acknowledgments
 This project builds upon:
